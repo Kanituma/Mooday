@@ -1,0 +1,11 @@
+#canvas {
+    position: absolute;
+    z-index: -1;
+}
+
+#capture {
+    display: block !important;
+    left: 99.9vw;
+    top: 99.99vh;
+    position: fixed;
+}
