@@ -17,7 +17,7 @@ function setup() {
     capture = createCapture(constraints);
     capture.elt.setAttribute('playsinline', '');
     // capture.elt.setAttribute('playsinline', '')
-    capture.hide();
+    // capture.hide();
 
     const faceOptions = {
         withLandmarks: true,
